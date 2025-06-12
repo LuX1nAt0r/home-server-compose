@@ -9,6 +9,8 @@ mosquitto/data/*
 !mosquitto/log/
 !mosquitto/data/
 
+influxdb/*
+
 # Andere Dateien/Ordner, die du möglicherweise auch ignorieren möchtest
 *.log
 *.bak
